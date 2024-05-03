@@ -1,5 +1,8 @@
 The beta version of my project "JestQuest".
-The game, initially conceptualised as a rhythm game / 2.D platformer / endless runner hybrid has been drastically scaled back due to my limited programming capabilities.
+The game, initially conceptualised as a rhythm game / 2.D platformer / endless runner hybrid has been drastically scaled back due to my limited programming capabilities. 
+After a series of blunders with the alpha stage of my project, this game is entirely new and shares no files or content with my previous attempt at the game.
+Files from that attempt can be found at https://github.com/wicklowtown/JestQuestAlphaRebuilt.
+
 Developed with Unreal Engine 5.
 The main tutorial used for the basis of my gameplay, outside of college lectures, was this tutorial series on YouTube: https://youtube.com/playlist?list=PL5tI7Z2tI7yYKn4irjkTEeEyH0Kblzv6C&si=0nidBeEvTE5qpDm6
 
@@ -14,3 +17,5 @@ Version 0.02 - Added Jump, Move and Slide input controls. The character now endl
 Version 0.03 - Jumping fixed, sliding added.
 
 Version 0.04 - The start of blueprints for floor generation is added. (unfinished)
+
+Version 0.05 - Infinite floor generation (glitchy) but working.
