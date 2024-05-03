@@ -12,3 +12,5 @@ Version 0.01 - Added downloaded animations, new game mode (infinite runner) blue
 Version 0.02 - Added Jump, Move and Slide input controls. The character now endlessly runs forward, but the jump doesn't work.
 
 Version 0.03 - Jumping fixed, sliding added.
+
+Version 0.04 - The start of blueprints for floor generation is added. (unfinished)
