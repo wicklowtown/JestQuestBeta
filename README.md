@@ -20,4 +20,6 @@ Version 0.04 - The start of blueprints for floor generation is added. (unfinishe
 
 Version 0.05 - Infinite floor generation (glitchy) but working.
 
-Version 0.06 Lane switching added - though moving right is currently broken.
+Version 0.06 - Lane switching added - though moving right is currently broken.
+
+Verion 0.07 - Minor fixes. Lane switching still broken.
