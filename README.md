@@ -25,3 +25,5 @@ Version 0.06 - Lane switching added - though moving right is currently broken.
 Verion 0.07 - Minor fixes. Lane switching still broken.
 
 Version 0.08 - Lane switching is somewhat fixed, although double tapping on either left or right causes the character to return to the centre lane.
+
+Version 0.09 - Lane switching fixed.
