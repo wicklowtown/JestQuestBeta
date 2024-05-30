@@ -23,3 +23,5 @@ Version 0.05 - Infinite floor generation (glitchy) but working.
 Version 0.06 - Lane switching added - though moving right is currently broken.
 
 Verion 0.07 - Minor fixes. Lane switching still broken.
+
+Version 0.08 - Lane switching is somewhat fixed, although double tapping on either left or right causes the character to return to the centre lane.
