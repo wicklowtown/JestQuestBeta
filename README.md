@@ -29,3 +29,5 @@ Version 0.08 - Lane switching is somewhat fixed, although double tapping on eith
 Version 0.09 - Lane switching fixed.
 
 Version 0.10 - Obstacles added. Player can dodge, duck and slide under very basic obstacles as they move towards them. Although there is an error as the right hand lane is empty. 
+
+Version 0.11 - Ragdoll physics added if player hits into obstacle. Death added / death screen added, allowing players to choose to restart or quit when they die.
