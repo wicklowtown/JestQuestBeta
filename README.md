@@ -27,3 +27,5 @@ Verion 0.07 - Minor fixes. Lane switching still broken.
 Version 0.08 - Lane switching is somewhat fixed, although double tapping on either left or right causes the character to return to the centre lane.
 
 Version 0.09 - Lane switching fixed.
+
+Version 0.10 - Obstacles added. Player can dodge, duck and slide under very basic obstacles as they move towards them. Although there is an error as the right hand lane is empty. 
