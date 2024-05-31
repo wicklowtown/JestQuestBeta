@@ -41,3 +41,5 @@ Version 0.13 - Minor bug fixes, tweaking collisions with objects. Attempted to I
 Version 0.14 - Jester Character IK retargeted to player. Slide animation not working.
 
 Version 0.15 - Opening title screens added.
+
+Version 0.16 - FINAL CURRENT VERSION - Objects changed to look more like music notes, their textures changed, floor texture changed, several bug fixes.
