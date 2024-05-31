@@ -6,6 +6,8 @@ Files from that attempt can be found at https://github.com/wicklowtown/JestQuest
 Developed with Unreal Engine 5.
 The main tutorial used for the basis of my gameplay, outside of college lectures, was this tutorial series on YouTube: https://youtube.com/playlist?list=PL5tI7Z2tI7yYKn4irjkTEeEyH0Kblzv6C&si=0nidBeEvTE5qpDm6
 
+The used this tutorial to add the opening title screens: https://www.youtube.com/watch?v=rnYOvxB-b0k
+
 Below, I'll list every version I've pushed to this repository during development.
 
 (the commits before Version 0.01 were merely for testing the revision control of the git.)
@@ -37,3 +39,5 @@ Version 0.12 - Scoreboard / high score system added.
 Version 0.13 - Minor bug fixes, tweaking collisions with objects. Attempted to IK retarget my Jester mesh to that of a UE mannequin but was unsuccessful.
 
 Version 0.14 - Jester Character IK retargeted to player. Slide animation not working.
+
+Version 0.15 - Opening title screens added.
