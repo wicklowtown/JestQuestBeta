@@ -33,3 +33,5 @@ Version 0.10 - Obstacles added. Player can dodge, duck and slide under very basi
 Version 0.11 - Ragdoll physics added if player hits into obstacle. Death added / death screen added, allowing players to choose to restart or quit when they die.
 
 Version 0.12 - Scoreboard / high score system added.
+
+Version 0.13 - Minor bug fixes, tweaking collisions with objects. Attempted to IK retarget my Jester mesh to that of a UE mannequin but was unsuccessful.
