@@ -35,3 +35,5 @@ Version 0.11 - Ragdoll physics added if player hits into obstacle. Death added /
 Version 0.12 - Scoreboard / high score system added.
 
 Version 0.13 - Minor bug fixes, tweaking collisions with objects. Attempted to IK retarget my Jester mesh to that of a UE mannequin but was unsuccessful.
+
+Version 0.14 - Jester Character IK retargeted to player. Slide animation not working.
